@@ -1,4 +1,12 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
+
+Hi there! I'm a passionate developer with a love for AI, open-source, and technology. 🚀
+
+- 🌱 Currently learning: JavaScript, React, and AI applications.
+- 💻 Favorite tools: Ubuntu, Vim, and Git.
+- 🎯 Goals: Build impactful projects and grow as a developer.
+
+👉 [Check out my projects!](https://github.com/yiwang-maker)
 
 <!--
 **yiwang-maker/yiwang-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
