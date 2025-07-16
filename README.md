@@ -7,9 +7,8 @@
 Currently exploring the intersection of **AI**, **web development**, and **social impact** while maintaining a deep curiosity for how technology reshapes human society.
 
 
-## 🛠️ Tech Stack & Learning Journey
+## 🛠️ **Current Focus**
 
-### **Current Focus:**
 - 🌐 **Frontend**: HTML5, CSS3, JavaScript (ES6+), React, Next.js
 - 🐧 **Environment**: Ubuntu 24.04 LTS (GNOME/Wayland), Vim, Bash
 - 🔧 **Tools**: Git, Node.js, Vite, Caddy, chezmoi
