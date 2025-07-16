@@ -6,7 +6,6 @@
 
 Currently exploring the intersection of **AI**, **web development**, and **social impact** while maintaining a deep curiosity for how technology reshapes human society.
 
----
 
 ## 🛠️ Tech Stack & Learning Journey
 
@@ -17,7 +16,6 @@ Currently exploring the intersection of **AI**, **web development**, and **socia
 - 🤖 **AI Applications**: Exploring practical implementations
 - 🔍 **Philosophy**: *First principles thinking meets hands-on coding*
 
----
 
 ## 🎯 What Makes Me Different
 
@@ -27,7 +25,6 @@ Currently exploring the intersection of **AI**, **web development**, and **socia
 - 🧠 **AI-First Mindset**: Leveraging AI tools for enhanced productivity
 - 🤔 **Critical Thinking**: Always asking "why" behind every technical decision
 
----
 
 ## ⚡ Beyond Code
 
@@ -38,7 +35,6 @@ When not coding, you'll find me:
 - 📖 **History**: Especially Song Dynasty and Modern Chinese History
 - 🐕 **Dog Lover**: Firm believer that dogs > cats
 
----
 
 ## 📈 Current Learning Goals
 
@@ -48,7 +44,6 @@ When not coding, you'll find me:
 - [ ] Develop cross-platform solutions using modern web technologies
 - [ ] Bridge academic research with practical tech implementations
 
----
 
 ## 🌟 Featured Projects
 
@@ -61,10 +56,7 @@ Ideas brewing:
 - Cross-platform productivity tools for academics
 -->
 
----
-
 
 ## 💭 *"Technology is not neutral. Understanding its social implications while building it responsibly is what drives my code."*
 
----
 
