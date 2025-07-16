@@ -17,16 +17,6 @@ Currently exploring the intersection of **AI**, **web development**, and **socia
 - 🤖 **AI Applications**: Exploring practical implementations
 - 🔍 **Philosophy**: *First principles thinking meets hands-on coding*
 
-### **Learning Path:**
-```javascript
-const jayden = {
-  background: "Marxist Theory & International Relations",
-  currentlyLearning: ["JavaScript", "React", "Linux Systems", "AI Applications"],
-  goals: ["Master full-stack development", "Build AI-powered solutions", "Bridge academia & tech"],
-  motto: "Why is it designed this way? What's the underlying logic?"
-};
-```
-
 ---
 
 ## 🎯 What Makes Me Different
@@ -73,17 +63,8 @@ Ideas brewing:
 
 ---
 
-## 📫 Let's Connect
 
-- 💼 **Background**: Professor of Marxist Theory with a passion for technology
-- 🌍 **Location**: Campus life with dual-boot Ubuntu/Windows setup
-- 💡 **Interests**: AI applications, frontend development, system optimization
-- 🎯 **Goal**: Transitioning into AI-focused tech career
+## 💭 *"Technology is not neutral. Understanding its social implications while building it responsibly is what drives my code."*
 
 ---
 
-### 💭 *"Technology is not neutral. Understanding its social implications while building it responsibly is what drives my code."*
-
----
-
-👉 [Check out my projects!](https://github.com/jaydencodes404)
